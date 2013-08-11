@@ -1,0 +1,5 @@
+python-ecdsa (0.8) raring; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Jakh Daven <tuxcanfly@gmail.com>  Sun, 11 Aug 2013 21:01:04 +0530
